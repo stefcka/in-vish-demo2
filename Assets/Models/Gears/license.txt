@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gears Bowtie
+* source:	https://sketchfab.com/3d-models/gears-bowtie-594f8f2772634a64a1e3bb072d14fae5
+* author:	Siarheika (https://sketchfab.com/siarheika)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gears Bowtie" (https://sketchfab.com/3d-models/gears-bowtie-594f8f2772634a64a1e3bb072d14fae5) by Siarheika (https://sketchfab.com/siarheika) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

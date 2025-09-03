@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ammo Cassings
+* source:	https://sketchfab.com/3d-models/ammo-cassings-8a84ce09994b47f5af7d401ff1f459b0
+* author:	Plriy (https://sketchfab.com/Plriy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ammo Cassings" (https://sketchfab.com/3d-models/ammo-cassings-8a84ce09994b47f5af7d401ff1f459b0) by Plriy (https://sketchfab.com/Plriy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

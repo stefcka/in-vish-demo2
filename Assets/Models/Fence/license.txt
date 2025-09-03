@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fence Broken [Low-Poly]
+* source:	https://sketchfab.com/3d-models/fence-broken-low-poly-0a1335a9e9fe400bbcc1c7e4fb2a1ce6
+* author:	HanSoloSnipe (https://sketchfab.com/HanSoloSnipe)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fence Broken [Low-Poly]" (https://sketchfab.com/3d-models/fence-broken-low-poly-0a1335a9e9fe400bbcc1c7e4fb2a1ce6) by HanSoloSnipe (https://sketchfab.com/HanSoloSnipe) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
